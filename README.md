@@ -5,7 +5,8 @@ junior Front-end web developer
 ## Tech
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+
 
 ## Blog
 
@@ -14,8 +15,8 @@ junior Front-end web developer
 
 ## Contact
 
-<img src="https://img.shields.io/badge/G_mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> hyeongman24@gmail.com</br>
-<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> aaaa4000@naver.com
+<img src="https://img.shields.io/badge/G_mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> hyeongman24@gmail.com</br>
+<img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> aaaa4000@naver.com
 
 ## Stats
 
