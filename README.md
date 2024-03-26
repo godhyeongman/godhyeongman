@@ -14,6 +14,3 @@ junior Front-end web developer
 <img src="https://img.shields.io/badge/G_mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> hyeongman24@gmail.com</br>
 <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> aaaa4000@naver.com
 
-## Stats
-
-![godhyeongman github stats](https://github-readme-stats.vercel.app/api?username=godhyeongman&show_icons=true)
