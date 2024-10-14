@@ -1,6 +1,6 @@
 # Dott
 
-junior Front-end web developer
+Front-end web developer
 
 
 
